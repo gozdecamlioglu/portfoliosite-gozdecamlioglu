@@ -16,25 +16,25 @@
     "client": "FinTech SaaS",
     "date": "2024-2026",
     "websiteLink": "https://www.mortgageautomator.com",
-    "coverImage": "/assets/img/projects/mortgage-automator/ma-cover.png",
-    "heroImage": "/assets/img/projects/mortgage-automator/ma-hero1.png",
-    "heroImage2": "/assets/img/projects/mortgage-automator/ma-hero2.png",
+    "coverImage": "/assets/img/projects/mortgage-automator/MA-cover.png",
+    "heroImage": "/assets/img/projects/mortgage-automator/MA-hero1.png",
+    "heroImage2": "/assets/img/projects/mortgage-automator/MA-hero2.png",
     "midImages1": [
-      "/assets/img/projects/mortgage-automator/ma-mid1.png",
-      "/assets/img/projects/mortgage-automator/ma-mid2.png"
+      "/assets/img/projects/mortgage-automator/MA-mid1.png",
+      "/assets/img/projects/mortgage-automator/MA-mid2.png"
     ],
     "midImages2": [
-      "/assets/img/projects/mortgage-automator/ma-mid3.png",
-      "/assets/img/projects/mortgage-automator/ma-mid4.png"
+      "/assets/img/projects/mortgage-automator/MA-mid3.png",
+      "/assets/img/projects/mortgage-automator/MA-mid4.png"
     ],
     "midImages3": [],
     "sliderImages": [
-      "/assets/img/projects/mortgage-automator/ma-slide1.png",
-      "/assets/img/projects/mortgage-automator/ma-slide2.png",
-      "/assets/img/projects/mortgage-automator/ma-slide3.png",
-      "/assets/img/projects/mortgage-automator/ma-slide4.png",
-      "/assets/img/projects/mortgage-automator/ma-slide5.png",
-      "/assets/img/projects/mortgage-automator/ma-slide6.png"
+      "/assets/img/projects/mortgage-automator/MA-slide1.png",
+      "/assets/img/projects/mortgage-automator/MA-slide2.png",
+      "/assets/img/projects/mortgage-automator/MA-slide3.png",
+      "/assets/img/projects/mortgage-automator/MA-slide4.png",
+      "/assets/img/projects/mortgage-automator/MA-slide5.png",
+      "/assets/img/projects/mortgage-automator/MA-slide6.png"
     ],
     "sections": {
       "section1": {
@@ -117,24 +117,24 @@
     "client": "Enterprise Mobility SaaS",
     "date": "2024",
     "websiteLink": "https://brixapp.com/en/",
-    "coverImage": "/assets/img/projects/brix/brix-cover.png",
-    "heroImage": "/assets/img/projects/brix/brix-hero1.png",
-    "heroImage2": "/assets/img/projects/brix/brix-hero2.png",
+    "coverImage": "/assets/img/projects/brix/Brix-cover.png",
+    "heroImage": "/assets/img/projects/brix/Brix-hero1.png",
+    "heroImage2": "/assets/img/projects/brix/Brix-hero2.png",
     "midFullImage": [
-      "/assets/img/projects/brix/brix-mid1.png",
-      "/assets/img/projects/brix/brix-mid2.png"
+      "/assets/img/projects/brix/Brix-mid1.png",
+      "/assets/img/projects/brix/Brix-mid2.png"
     ],
     "midFullImage2": [
-      "/assets/img/projects/brix/brix-mid3.png",
-      "/assets/img/projects/brix/brix-mid4.png"
+      "/assets/img/projects/brix/Brix-mid3.png",
+      "/assets/img/projects/brix/Brix-mid4.png"
     ],
     "sliderImages": [
-      "/assets/img/projects/brix/brix-slide1.png",
-      "/assets/img/projects/brix/brix-slide2.png",
-      "/assets/img/projects/brix/brix-slide3.png",
-      "/assets/img/projects/brix/brix-slide4.png",
-      "/assets/img/projects/brix/brix-slide5.png",
-      "/assets/img/projects/brix/brix-slide6.png"
+      "/assets/img/projects/brix/Brix-slide1.png",
+      "/assets/img/projects/brix/Brix-slide2.png",
+      "/assets/img/projects/brix/Brix-slide3.png",
+      "/assets/img/projects/brix/Brix-slide4.png",
+      "/assets/img/projects/brix/Brix-slide5.png",
+      "/assets/img/projects/brix/Brix-slide6.png"
     ],
     "sections": {
       "section1": {
@@ -587,9 +587,9 @@
     "client": "Brand Identity",
     "date": "2022–2025",
     "websiteLink": "",
-    "coverImage": "/assets/img/projects/brand-design/brand-cover.png",
-    "heroImage": "/assets/img/projects/brand-design/brand1.png",
-    "heroImage2": "/assets/img/projects/brand-design/brand2.png",
+    "coverImage": "/assets/img/projects/brand-design/Brand-cover.png",
+    "heroImage": "/assets/img/projects/brand-design/Brand1.png",
+    "heroImage2": "/assets/img/projects/brand-design/Brand2.png",
     "galleryImages": [
       "/assets/img/projects/brand-design/Brand1.png",
       "/assets/img/projects/brand-design/Brand2.png",
