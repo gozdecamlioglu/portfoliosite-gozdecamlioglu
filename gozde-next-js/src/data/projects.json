@@ -1,0 +1,711 @@
+[
+  {
+    "id": 1,
+    "order": 1,
+    "slug": "mortgage-automator",
+    "title": "Mortgage Automator",
+    "subtitle": "FinTech SaaS",
+    "description": "Mortgage Automator is a B2B FinTech SaaS platform used by private lenders to manage loan origination, servicing, and reporting.\n\nI redesigned complex financial workflows and integrated AI-assisted automation to transform fragmented tools into a unified, scalable platform for managing loan portfolios.",
+    "tags": [
+      "FinTech SaaS",
+      "Data-heavy interface design",
+      "AI-assisted automation UX",
+      "API integration workflows",
+      "Design system development"
+    ],
+    "client": "FinTech SaaS",
+    "date": "2024-2026",
+    "websiteLink": "https://www.mortgageautomator.com",
+    "coverImage": "/assets/img/projects/mortgage-automator/ma-cover.png",
+    "heroImage": "/assets/img/projects/mortgage-automator/ma-hero1.png",
+    "heroImage2": "/assets/img/projects/mortgage-automator/ma-hero2.png",
+    "midImages1": [
+      "/assets/img/projects/mortgage-automator/ma-mid1.png",
+      "/assets/img/projects/mortgage-automator/ma-mid2.png"
+    ],
+    "midImages2": [
+      "/assets/img/projects/mortgage-automator/ma-mid3.png",
+      "/assets/img/projects/mortgage-automator/ma-mid4.png"
+    ],
+    "midImages3": [],
+    "sliderImages": [
+      "/assets/img/projects/mortgage-automator/ma-slide1.png",
+      "/assets/img/projects/mortgage-automator/ma-slide2.png",
+      "/assets/img/projects/mortgage-automator/ma-slide3.png",
+      "/assets/img/projects/mortgage-automator/ma-slide4.png",
+      "/assets/img/projects/mortgage-automator/ma-slide5.png",
+      "/assets/img/projects/mortgage-automator/ma-slide6.png"
+    ],
+    "sections": {
+      "section1": {
+        "sectionNumber": "01",
+        "title": "Context",
+        "leftText": "Complex Workflows, Non-Technical Users",
+        "bodyText": [
+          "Private lenders manage complex workflows—from loan origination to investor reporting—often across spreadsheets and disconnected tools. This fragmentation created operational risk and made it difficult for loan officers to process and track financial data efficiently.",
+          "The challenge was to bring these workflows into a single platform that non-technical users could adopt easily while still meeting strict financial compliance requirements."
+        ],
+        "list": [
+          "PRODUCT DESIGN",
+          "DESIGN SYSTEMS",
+          "AI FEATURE INTEGRATION",
+          "WORKFLOW ARCHITECTURE"
+        ]
+      },
+      "section2": {
+        "sectionNumber": "02",
+        "title": "Goal",
+        "leftText": "Clarity at Scale",
+        "bodyText": [
+          "The goal was to reduce the cognitive load of managing hundreds of loan files by restructuring how financial data was organized, surfaced, and acted upon.",
+          "At the same time, I designed a scalable component framework that allowed engineering teams to implement new features consistently as the platform continued to grow."
+        ],
+        "list": []
+      },
+      "section3": {
+        "sectionNumber": "03",
+        "title": "Solution",
+        "leftText": "Structured, Scalable, Human-Centric",
+        "bodyText": [
+          "I worked on the design of key platform modules and introduced a unified design system that brought consistency to a product that had evolved organically over time.",
+          "AI-powered automation reduced manual data entry and document processing, while close collaboration with engineering and client success ensured that every interface aligned with real lender workflows."
+        ],
+        "list": []
+      },
+      "section4": {
+        "sectionNumber": "04",
+        "title": "Impact",
+        "leftText": "Operational Clarity & Scalable Architecture",
+        "bodyText": [
+          "• Simplified complex lending workflows through structured information architecture and a unified design system",
+          "• Reduced manual data entry through AI-assisted automation and integrated document workflows",
+          "• Enabled consistent feature development with scalable design components implemented across the platform",
+          "• Improved transparency for lenders, borrowers, and investors through dedicated portals and centralized data views",
+          "The result was a more scalable, automation-driven platform that allowed lenders to manage complex loan portfolios with greater clarity and efficiency."
+        ],
+        "list": []
+      }
+    },
+    "typography": [
+      {
+        "name": "Inter",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      }
+    ],
+    "colors": [
+      "#19191A",
+      "#5D5D63",
+      "#ECECEA"
+    ]
+  },
+  {
+    "id": 2,
+    "order": 2,
+    "slug": "brix",
+    "title": "Brix",
+    "subtitle": "Enterprise Mobility SaaS",
+    "description": "BRIX is an enterprise mobility SaaS platform connecting management with deskless construction workers. I designed a gamified micro-learning system for safety compliance and structured the operations module for geolocation-based time tracking. The result was a mobile-first experience that simplified field workflows while delivering reliable real-time data to management.",
+    "tags": [
+      "Mobile-first UX",
+      "Gamified training system",
+      "Geolocation time tracking",
+      "Operations dashboards",
+      "Cross-platform design system"
+    ],
+    "client": "Enterprise Mobility SaaS",
+    "date": "2024",
+    "websiteLink": "https://brixapp.com/en/",
+    "coverImage": "/assets/img/projects/brix/brix-cover.png",
+    "heroImage": "/assets/img/projects/brix/brix-hero1.png",
+    "heroImage2": "/assets/img/projects/brix/brix-hero2.png",
+    "midFullImage": [
+      "/assets/img/projects/brix/brix-mid1.png",
+      "/assets/img/projects/brix/brix-mid2.png"
+    ],
+    "midFullImage2": [
+      "/assets/img/projects/brix/brix-mid3.png",
+      "/assets/img/projects/brix/brix-mid4.png"
+    ],
+    "sliderImages": [
+      "/assets/img/projects/brix/brix-slide1.png",
+      "/assets/img/projects/brix/brix-slide2.png",
+      "/assets/img/projects/brix/brix-slide3.png",
+      "/assets/img/projects/brix/brix-slide4.png",
+      "/assets/img/projects/brix/brix-slide5.png",
+      "/assets/img/projects/brix/brix-slide6.png"
+    ],
+    "sections": {
+      "section1": {
+        "sectionNumber": "01",
+        "title": "Context",
+        "leftText": "The Disconnect in the Field",
+        "bodyText": [
+          "Managing and training a deskless workforce is a persistent challenge in the construction industry. Traditional methods—such as punch cards for time tracking or long remote training sessions—are often inaccessible and unreliable for workers constantly moving between job sites.",
+          "The opportunity was to create a mobile-first platform that connected field workers and management, ensuring safety training compliance while accurately tracking worker time and location across multiple job sites."
+        ],
+        "list": [
+          "PRODUCT DESIGN",
+          "MOBILE-FIRST UX",
+          "DESIGN SYSTEMS",
+          "COMPLEX WORKFLOW DESIGN"
+        ]
+      },
+      "section2": {
+        "sectionNumber": "02",
+        "title": "Goal",
+        "leftText": "One Platform, Every Stakeholder",
+        "bodyText": [
+          "For the training module, the goal was to replace static training with short, engaging micro-learning experiences. Gamification elements such as points, badges, and leaderboards were introduced to increase participation and improve safety compliance.",
+          "For operations, the focus was reducing friction in daily workflows and preventing time theft. I designed a geolocation-based punch-in system that allowed workers to easily track hours on-site while giving managers real-time operational visibility."
+        ],
+        "list": []
+      },
+      "section3": {
+        "sectionNumber": "03",
+        "title": "Solution",
+        "leftText": "Structuring the Mobile Ecosystem",
+        "bodyText": [
+          "Designing for deskless workers required clear, frictionless mobile workflows. I mapped scenarios reflecting real field conditions, including automated reminders for missed clock-outs and location-based restrictions for time tracking.",
+          "The result was a streamlined mobile experience that guided workers through daily tasks and training while providing reliable, real-time operational data for management."
+        ],
+        "list": []
+      },
+      "section4": {
+        "sectionNumber": "04",
+        "title": "Impact",
+        "leftText": "Safer Sites, Clearer Operations",
+        "bodyText": [
+          "The platform transformed fragmented field operations into a unified mobile experience for deskless workers. Safety training became more engaging through gamified micro-learning, improving accessibility and encouraging consistent participation across teams.",
+          "Geolocation-based time tracking and automated workflows provided managers with reliable real-time visibility into field activities, reducing operational friction while strengthening accountability and compliance across job sites."
+        ],
+        "list": []
+      }
+    },
+    "typography": [
+      {
+        "name": "Inter",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      }
+    ],
+    "colors": [
+      "#19191A",
+      "#5D5D63",
+      "#ECECEA"
+    ]
+  },
+  {
+    "id": 4,
+    "order": 4,
+    "slug": "investpie",
+    "title": "Investpie",
+    "subtitle": "FinTech Mobile App",
+    "description": "Investpie is an educational FinTech application designed to make stock market and macroeconomic concepts easier to understand for everyday learners. Instead of overwhelming users with institutional trading interfaces, the platform translates complex financial data into clear, human-centered visualizations. Through progressive disclosure, users can explore market insights while building financial literacy without cognitive overload.",
+    "tags": [
+      "Financial data visualization",
+      "Information architecture",
+      "Mobile UI design",
+      "Progressive disclosure UX",
+      "Interaction design"
+    ],
+    "client": "FinTech Mobile App",
+    "date": "2023",
+    "websiteLink": "",
+    "coverImage": "/assets/img/projects/investpie/investpie-covers/investpie-cover@2x.png",
+    "heroImage": "/assets/img/projects/investpie/investpie-large-images/invest1.png",
+    "heroImage2": "/assets/img/projects/investpie/investpie-large-images/invest2.png",
+    "midImages1": [
+      "/assets/img/projects/investpie/investpie-large-images/invest3.png",
+      "/assets/img/projects/investpie/investpie-large-images/invest4.png"
+    ],
+    "midImages2": [
+      "/assets/img/projects/investpie/invest5.png",
+      "/assets/img/projects/investpie/invest6.png"
+    ],
+    "midImages3": [
+      "/assets/img/projects/investpie/investpie-large-images/invest7.png",
+      "/assets/img/projects/investpie/investpie-large-images/invest8.png"
+    ],
+    "sliderImages": [
+      "/assets/img/projects/investpie/investpie-large-images/invest9.png",
+      "/assets/img/projects/investpie/investpie-large-images/invest10.png",
+      "/assets/img/projects/investpie/investpie-large-images/invest11.png",
+      "/assets/img/projects/investpie/investpie-large-images/invest12.png",
+      "/assets/img/projects/investpie/investpie-large-images/invest13.png",
+      "/assets/img/projects/investpie/investpie-large-images/invest14.png"
+    ],
+    "sections": {
+      "section1": {
+        "sectionNumber": "01",
+        "title": "Context",
+        "leftText": "The Complexity Barrier in Finance",
+        "bodyText": [
+          "The world of investing is often hidden behind complex terminology and overwhelming financial data. Most platforms are designed for experienced traders, making them difficult for everyday learners to navigate.",
+          "There was an opportunity to create an accessible bridge—translating market indicators and economic signals into clear insights that help users understand financial systems without feeling overwhelmed."
+        ],
+        "list": []
+      },
+      "section2": {
+        "sectionNumber": "02",
+        "title": "Goal",
+        "leftText": "From Data-Heavy to Human-Centric",
+        "bodyText": [
+          "The goal was to transform complex financial information into an interface that prioritizes cognitive clarity. By structuring information through progressive disclosure, users could explore deeper market insights without being overwhelmed.",
+          "The platform needed to guide users through financial concepts gradually, helping them build confidence and understanding while interacting with real market data."
+        ],
+        "list": []
+      },
+      "section3": {
+        "sectionNumber": "03",
+        "title": "Solution",
+        "leftText": "A Clear Path to Financial Insight",
+        "bodyText": [
+          "The interface was designed around clear data visualization and modular content structures that prioritize legibility over information density. Complex financial indicators were translated into visual components that users could understand quickly.",
+          "A flexible card-based layout allows users to scan market updates, explore economic trends, and dive deeper into specific insights while maintaining a clean and responsive experience across devices."
+        ],
+        "list": []
+      }
+    },
+    "typography": [
+      {
+        "name": "Big Shoulders Display",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      },
+      {
+        "name": "Syne",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      }
+    ],
+    "colors": [
+      "#19191A",
+      "#5D5D63",
+      "#ECECEA"
+    ]
+  },
+  {
+    "id": 3,
+    "order": 3,
+    "slug": "iconiq",
+    "title": "Iconiq",
+    "subtitle": "E-commerce",
+    "description": "Iconiq is a digital e-commerce platform designed to make high-end furniture and interior design more accessible online. The platform transforms the exclusivity of luxury showrooms into an editorial-style digital experience, combining strong visual storytelling with clear product context to support confident purchasing decisions.",
+    "tags": [
+      "E-commerce UX",
+      "Product discovery flows",
+      "Visual storytelling",
+      "High-fidelity prototyping",
+      "Design system components"
+    ],
+    "client": "E-commerce",
+    "date": "2023",
+    "websiteLink": "",
+    "coverImage": "/assets/img/projects/iconiq/iconiq-covers/iconiq-cover@2x.png",
+    "heroImage": "/assets/img/projects/iconiq/iconiq-large-images/iconiq3@2x.png",
+    "heroImage2": "/assets/img/projects/iconiq/iconiq-large-images/iconiq4@2x.png",
+    "midImages1": [
+      "/assets/img/projects/iconiq/iconiq-large-images/iconiq5@2x.png",
+      "/assets/img/projects/iconiq/iconiq-large-images/iconiq11@2x.png"
+    ],
+    "midImages2": [
+      "/assets/img/projects/iconiq/iconiqnew/icon_low.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_mid.png"
+    ],
+    "midImages3": [
+      "/assets/img/projects/iconiq/iconiqnew/icon_high.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_web.png"
+    ],
+    "sliderImages": [
+      "/assets/img/projects/iconiq/iconiqnew/icon_slide1.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_slide2.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_slide3.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_slide4.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_slide5.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_slide6.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_slide7.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_slide8.png",
+      "/assets/img/projects/iconiq/iconiqnew/icon_slide9.png"
+    ],
+    "sections": {
+      "section1": {
+        "sectionNumber": "01",
+        "title": "Context",
+        "leftText": "The Trust Gap in Digital Luxury",
+        "bodyText": [
+          "Purchasing high-end furniture is a tactile and emotional experience. Customers hesitate to buy investment pieces online because they cannot easily evaluate materials, craftsmanship, or scale in their own space.",
+          "Most platforms either felt overly transactional or too exclusive with hidden pricing and gated access. There was an opportunity to create a digital platform that balanced luxury aesthetics with transparency and ease of exploration."
+        ],
+        "list": [
+          "DIGITAL STRATEGY",
+          "USER EXPERIENCE (UX)",
+          "USER INTERFACE DESIGN (UI)",
+          "PRODUCT DEVELOPMENT"
+        ]
+      },
+      "section2": {
+        "sectionNumber": "02",
+        "title": "Goal",
+        "leftText": "From Storefront to Digital Showroom",
+        "bodyText": [
+          "Instead of building a traditional e-commerce store, the goal was to recreate the feeling of a curated design showroom in a digital environment.",
+          "My background in interior architecture informed the approach: reduce the cognitive load of visualizing furniture while maintaining the premium atmosphere and trust associated with physical galleries."
+        ]
+      },
+      "section3": {
+        "sectionNumber": "03",
+        "title": "Solution",
+        "leftText": "An Education-First Experience",
+        "bodyText": [
+          "The platform prioritizes editorial storytelling—such as design history and material origin—before transactional actions. This builds trust and allows users to understand the craftsmanship behind each product.",
+          "A modular grid system inspired by architectural portfolios creates a calm, gallery-like layout where whitespace emphasizes product imagery and maintains a premium visual hierarchy across desktop and mobile."
+        ]
+      }
+    },
+    "typography": [
+      {
+        "name": "Big Shoulders Display",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      },
+      {
+        "name": "Syne",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      }
+    ],
+    "colors": [
+      "#19191A",
+      "#5D5D63",
+      "#ECECEA"
+    ]
+  },
+  {
+    "id": 6,
+    "order": 6,
+    "slug": "fernweh",
+    "title": "Fernweh",
+    "subtitle": "Travel Product",
+    "description": "Fernweh is a mobile travel guide designed to help users discover destinations and plan trips in one unified platform. Instead of juggling blogs, maps, and notes, travelers can move seamlessly from inspiration to itinerary planning. The app simplifies complex travel logistics so users can focus on the experience itself.",
+    "tags": [
+      "User research",
+      "Usability testing",
+      "Mobile UX design",
+      "MVP product strategy",
+      "Interactive prototyping"
+    ],
+    "client": "Travel Product",
+    "date": "2023",
+    "websiteLink": "",
+    "coverImage": "/assets/img/projects/fernweh/fernweh-covers/fernweh-cover@2x.png",
+    "heroImage": "/assets/img/projects/fernweh/fernweh-new/fernwehnew1.png",
+    "heroImage2": "/assets/img/projects/fernweh/fernweh-new/fernwehnew2.png",
+    "midImages1": [
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew3.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew4.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew5.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew6.png"
+    ],
+    "midImages2": [
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew7.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew10.png"
+    ],
+    "midImages3": [],
+    "midFullImage": "/assets/img/projects/fernweh/fernweh-new/fernwehnew8.png",
+    "midImages4": [
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew9.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew11.png"
+    ],
+    "sliderImages": [
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew12.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew13.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew14.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew15.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew16.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew17.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew18.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew19.png",
+      "/assets/img/projects/fernweh/fernweh-new/fernwehnew20.png"
+    ],
+    "sections": {
+      "section1": {
+        "sectionNumber": "01",
+        "title": "Context",
+        "leftText": "The Fragmentation of Travel Planning",
+        "bodyText": [
+          "Trip planning often requires juggling multiple platforms—travel blogs for inspiration, maps for navigation, and notes or spreadsheets to organize ideas. This fragmented process creates unnecessary friction for travelers.",
+          "There was an opportunity to unify discovery and itinerary planning into a single mobile experience that reduces cognitive load while helping users organize their trips more efficiently."
+        ],
+        "list": []
+      },
+      "section2": {
+        "sectionNumber": "02",
+        "title": "Goal",
+        "leftText": "Structuring Unstructured Discovery",
+        "bodyText": [
+          "The goal was to transform scattered travel information into a clear, intuitive mobile experience that supports both discovery and planning.",
+          "Through user research and MVP definition, the product focused on core travel workflows—saving places, organizing destinations, and structuring itineraries—without overwhelming users with unnecessary features."
+        ]
+      },
+      "section3": {
+        "sectionNumber": "03",
+        "title": "Solution",
+        "leftText": "A Seamless and Intuitive Travel Companion",
+        "bodyText": [
+          "The design process was guided by iterative usability testing using low- and mid-fidelity wireframes to validate core user flows and navigation patterns.",
+          "A scalable style guide and high-fidelity prototypes were developed in Figma, translating complex itinerary planning into a clean, intuitive mobile interface."
+        ]
+      }
+    },
+    "typography": [
+      {
+        "name": "Big Shoulders Display",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      },
+      {
+        "name": "Syne",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      }
+    ],
+    "colors": [
+      "#19191A",
+      "#5D5D63",
+      "#ECECEA"
+    ]
+  },
+  {
+    "id": 5,
+    "order": 5,
+    "slug": "notable",
+    "title": "Notable",
+    "subtitle": "Productivity Software",
+    "description": "Notable is an all-in-one productivity application that brings tasks, calendars, and notes into a single unified workspace. Instead of switching between multiple tools, users can manage their time, organize work, and track long-term goals within one cohesive interface. The platform applies systems thinking to reduce cognitive overload and support focused, high-impact work.",
+    "tags": [
+      "Dashboard UX architecture",
+      "Productivity workflows",
+      "Cross-platform UX",
+      "Component library design",
+      "Interaction design"
+    ],
+    "client": "Productivity Software",
+    "date": "2023",
+    "websiteLink": "",
+    "coverImage": "/assets/img/projects/notable/notable-covers/notable-cover@2x.png",
+    "heroImage": "/assets/img/projects/notable/notnew/notnew1.png",
+    "heroImage2": "/assets/img/projects/notable/notnew/notnew2.png",
+    "midImages1": [
+      "/assets/img/projects/notable/notnew/notnew3.png",
+      "/assets/img/projects/notable/notnew/notnew4.png"
+    ],
+    "midImages2": [
+      "/assets/img/projects/notable/notnew/notnew5.png",
+      "/assets/img/projects/notable/notnew/notnew6.png"
+    ],
+    "midImages3": [],
+    "sliderImages": [
+      "/assets/img/projects/notable/notnew/notnew7.png",
+      "/assets/img/projects/notable/notnew/notnew8.png",
+      "/assets/img/projects/notable/notnew/notnew9.png"
+    ],
+    "sections": {
+      "section1": {
+        "sectionNumber": "01",
+        "title": "Context",
+        "leftText": "The Cost of Context-Switching",
+        "bodyText": [
+          "Modern professionals often rely on multiple tools—task managers, calendars, and note apps—to organize their work. Constantly switching between these platforms introduces cognitive friction and disrupts focused productivity.",
+          "There was an opportunity to create a centralized workspace that combines planning, task management, and goal tracking into a single interface without the complexity of traditional enterprise project tools."
+        ],
+        "list": []
+      },
+      "section2": {
+        "sectionNumber": "02",
+        "title": "Goal",
+        "leftText": "Systems Thinking for Daily Focus",
+        "bodyText": [
+          "The goal was to consolidate fragmented productivity workflows into a clear, intuitive system that supports both daily tasks and long-term planning.",
+          "By applying progressive disclosure, the interface keeps the main workspace focused and uncluttered while allowing users to access deeper task details only when needed."
+        ],
+        "list": []
+      },
+      "section3": {
+        "sectionNumber": "03",
+        "title": "Solution",
+        "leftText": "Modular Design for Multifaceted Goals",
+        "bodyText": [
+          "I designed a modular, card-based interface that allows users to move seamlessly between daily tasks and broader project goals.",
+          "A unified component system and iterative prototyping helped translate complex productivity workflows into a clean, structured dashboard experience."
+        ],
+        "list": []
+      }
+    },
+    "typography": [
+      {
+        "name": "Big Shoulders Display",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      },
+      {
+        "name": "Syne",
+        "characters": "abcdefghijklmnopqrstuvwxyz",
+        "digits": "0123456789",
+        "sample": "Aa"
+      }
+    ],
+    "colors": [
+      "#19191A",
+      "#5D5D63",
+      "#ECECEA"
+    ]
+  },
+  {
+    "id": 7,
+    "order": 7,
+    "slug": "brand-design",
+    "title": "Brand Design",
+    "subtitle": "Brand Identity",
+    "description": "A curated collection of brand identity projects for digital products, personal brands, and service businesses. Each project explores cohesive visual systems—including logo design, typography, color palettes, and brand guidelines—to ensure consistency across all touchpoints.",
+    "tags": [
+      "Logo design",
+      "Visual identity systems",
+      "Typography systems",
+      "Brand guidelines",
+      "Brand Strategy"
+    ],
+    "client": "Brand Identity",
+    "date": "2022–2025",
+    "websiteLink": "",
+    "coverImage": "/assets/img/projects/brand-design/brand-cover.png",
+    "heroImage": "/assets/img/projects/brand-design/brand1.png",
+    "heroImage2": "/assets/img/projects/brand-design/brand2.png",
+    "galleryImages": [
+      "/assets/img/projects/brand-design/Brand1.png",
+      "/assets/img/projects/brand-design/Brand2.png",
+      "/assets/img/projects/brand-design/Brand3.png"
+    ],
+    "hideHeroImages": true,
+    "midImages1": [],
+    "midImages2": [],
+    "midImages3": [],
+    "sliderImages": [],
+    "sections": {
+      "section1": {
+        "sectionNumber": "01",
+        "title": "Approach",
+        "leftText": "Identity as a System",
+        "bodyText": [
+          "Brand design is more than a logo — it is the construction of a visual language that communicates a company's essence across every touchpoint. My approach begins with understanding the brand's values, audience, and competitive landscape before a single mark is drawn.",
+          "Each project in this collection was developed through a structured discovery process, translating abstract brand attributes into concrete design decisions around form, color, and typography."
+        ],
+        "list": [
+          "BRAND STRATEGY",
+          "LOGO DESIGN",
+          "TYPOGRAPHY SYSTEMS",
+          "VISUAL IDENTITY GUIDELINES"
+        ]
+      },
+      "section2": {
+        "sectionNumber": "02",
+        "title": "Process",
+        "leftText": "Research to Visual Language",
+        "bodyText": [
+          "I approach every brand project as a systems design challenge. The goal is always to create a visual identity that is flexible enough to work across digital and print contexts, yet distinctive enough to be instantly recognizable.",
+          "Deliverables typically include a primary logo suite, typographic hierarchy, color palette with accessibility considerations, and a brand guidelines document that empowers the client to apply the identity consistently."
+        ],
+        "list": []
+      },
+      "section3": {
+        "sectionNumber": "03",
+        "title": "Outcome",
+        "leftText": "Consistency Across Every Touchpoint",
+        "bodyText": [
+          "The result of each engagement is a complete brand identity system that the client can confidently deploy across their marketing, product, and communications — without needing a designer present for every application.",
+          "Strong brand systems reduce decision fatigue and build recognizable trust with audiences over time."
+        ],
+        "list": []
+      }
+    },
+    "typography": [],
+    "colors": []
+  },
+  {
+    "id": 8,
+    "order": 8,
+    "slug": "interior-design",
+    "title": "Interior Design Projects",
+    "subtitle": "Interior Architecture",
+    "description": "Before transitioning into digital product design, I worked on interior architecture and spatial design projects. This selection highlights my foundation in spatial thinking, problem-solving, and balancing aesthetics with functionality—principles that continue to shape my approach to designing complex digital systems.",
+    "tags": [
+      "Space planning",
+      "3D visualization",
+      "Architectural detailing",
+      "Material & color strategy",
+      "Cross-disciplinary collaboration",
+      "End-to-end project delivery"
+    ],
+    "client": "Interior Architecture",
+    "date": "2019-2021",
+    "websiteLink": "https://www.geo-id.com",
+    "coverImage": "/assets/img/projects/id/id-covers/idnew1.jpg",
+    "heroImage": "/assets/img/projects/id/id-large-images/id1@2x.jpg",
+    "heroImage2": "/assets/img/projects/id/id-large-images/id2@2x.jpg",
+    "midImages1": [],
+    "midImages2": [],
+    "midImages3": [],
+    "sliderImages": [],
+    "galleryImages": [
+      "/assets/img/projects/id/id-large-images/id2@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id3@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id4@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id5@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id6@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id7@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id8@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id9@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id10@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id11@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id12@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id13@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id14@2x.jpg",
+      "/assets/img/projects/id/id-large-images/id15@2x.jpg"
+    ],
+    "sections": {
+      "section1": {
+        "sectionNumber": "01",
+        "title": "Spatial Logic",
+        "leftText": "The Foundation of Systems Thinking",
+        "bodyText": [
+          "My approach to product design is deeply rooted in my background as an Interior Architect. Working on large-scale projects—from luxury hospitality brands like Maxx Royal Resorts and Ritz Carlton Residences to complex public building renovations—taught me how to navigate strict architectural constraints and legislative requirements. I learned early on to treat every environment not just as a visual exercise, but as a holistic, multi-disciplinary system that dictates human behavior.",
+          "These selected works showcase my ability to manage end-to-end execution, spanning initial space planning and 3D visualization to supplier coordination and meticulous on-site documentation. The rigorous attention to architectural details and spatial flow required to build physical spaces is the exact same framework I use today to architect intuitive, scalable digital products."
+        ],
+        "list": []
+      },
+      "section2": {
+        "sectionNumber": "02",
+        "title": "Goal",
+        "leftText": "",
+        "bodyText": []
+      },
+      "section3": {
+        "sectionNumber": "03",
+        "title": "Solution",
+        "leftText": "",
+        "bodyText": []
+      }
+    },
+    "typography": [],
+    "colors": []
+  }
+]

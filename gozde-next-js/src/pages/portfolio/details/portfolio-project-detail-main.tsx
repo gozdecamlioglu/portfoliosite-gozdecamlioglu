@@ -1,0 +1,63 @@
+"use client";
+import { gsap } from "gsap";
+import React from "react";
+import { useGSAP } from "@gsap/react";
+import useScrollSmooth from "@/hooks/use-scroll-smooth";
+import { ScrollSmoother, ScrollTrigger, SplitText } from "@/plugins";
+gsap.registerPlugin(ScrollTrigger, ScrollSmoother, SplitText);
+
+// internal imports
+import Wrapper from "@/layouts/wrapper";
+import HeaderOne from "@/layouts/headers/header-one";
+import FooterThree from '@/layouts/footers/footer-three';
+import ProjectDetailArea from "@/components/portfolio/details/portfolio-project-detail-area";
+// animation
+import { charAnimation, fadeAnimation, titleAnimation } from "@/utils/title-animation";
+
+// types
+import type { Project } from "@/types/project-d-t";
+
+interface Props {
+    project: Project;
+    prevSlug: string | null;
+    nextSlug: string | null;
+}
+
+const PortfolioProjectDetailMain = ({ project, prevSlug, nextSlug }: Props) => {
+    useScrollSmooth();
+
+    if (!project) return null;
+
+    useGSAP(() => {
+        const timer = setTimeout(() => {
+            titleAnimation();
+            charAnimation();
+            fadeAnimation();
+        }, 100);
+        return () => clearTimeout(timer);
+    });
+
+    return (
+        <Wrapper>
+            {/* header area start */}
+            <HeaderOne />
+            {/* header area end */}
+
+            <div id="smooth-wrapper">
+                <div id="smooth-content">
+                    <main>
+                        {/* portfolio details area */}
+                        <ProjectDetailArea project={project} prevSlug={prevSlug} nextSlug={nextSlug} />
+                        {/* portfolio details area */}
+                    </main>
+
+                    {/* footer area */}
+                    <FooterThree />
+                    {/* footer area */}
+                </div>
+            </div>
+        </Wrapper>
+    );
+};
+
+export default PortfolioProjectDetailMain;
