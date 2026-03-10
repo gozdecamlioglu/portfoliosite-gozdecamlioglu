@@ -19,13 +19,13 @@ const schema = yup.object().shape({
 
 // prop type 
 type IProps = {
-  btnCls?:string;
+  btnCls?: string;
 }
-export default function ContactForm({btnCls=''}:IProps) {
-  const {register,handleSubmit,reset,formState: { errors }} = useForm<FormData>({
+export default function ContactForm({ btnCls = '' }: IProps) {
+  const { register, handleSubmit, reset, formState: { errors } } = useForm<FormData>({
     resolver: yupResolver(schema),
   });
-  const onSubmit = handleSubmit((data:FormData) => {
+  const onSubmit = handleSubmit((data: FormData) => {
     alert(JSON.stringify(data))
     reset()
   });
@@ -37,13 +37,13 @@ export default function ContactForm({btnCls=''}:IProps) {
         <ErrorMsg msg={errors.name?.message!} />
       </div>
       <div className="cn-contactform-input mb-25">
-        <label>Subject</label>
+        <label>Email</label>
         <input id='subject' {...register("subject")} type="text" placeholder="Your@email.com" />
         <ErrorMsg msg={errors.subject?.message!} />
       </div>
       <div className="cn-contactform-input mb-25">
         <label>Message</label>
-        <textarea id='message' {...register("message")} placeholder="Tell Us About Your Project"></textarea>
+        <textarea id='message' {...register("message")} placeholder="Tell me about your project"></textarea>
         <ErrorMsg msg={errors.message?.message!} />
       </div>
       <div className="cn-contactform-btn">

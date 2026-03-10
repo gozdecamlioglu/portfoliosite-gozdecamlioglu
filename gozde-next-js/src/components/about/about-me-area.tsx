@@ -14,8 +14,8 @@ export default function AboutMeArea() {
                 <Hand />
                 Hi!
               </span>
-              <p className="tp-dropcap" style={{ fontSize: "36px", lineHeight: "1.4" }}>
-                My journey into product design began in interior architecture, where I learned to think in systems and structure. Today, I apply that mindset to digital environments — designing complex B2B platforms, scalable design systems, and AI-powered features with clarity and intention. For me, great design isn’t just about how something looks, but how thoughtfully and reliably it works.
+              <p className="tp-dropcap" style={{ fontSize: "30px", lineHeight: "1.4" }}>
+                I'm Gozde. My journey into product design began in interior architecture, where I learned to think in systems and structure. Today, I apply that mindset to digital environments designing complex B2B platforms, scalable design systems, and AI-powered features with clarity and intention. For me, great design isn’t just about how something looks, but how thoughtfully and reliably it works.
               </p>
             </div>
           </div>
