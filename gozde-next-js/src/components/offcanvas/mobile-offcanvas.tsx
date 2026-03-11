@@ -26,7 +26,7 @@ export default function MobileOffcanvas({ openOffcanvas, setOpenOffcanvas }: IPr
         <div className="tp-offcanvas-wrapper">
           <div className="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div className="tp-offcanvas-logo">
-              <Link href="#">
+              <Link href="/">
                 <Image src={logo} alt="logo" />
               </Link>
             </div>
@@ -44,7 +44,7 @@ export default function MobileOffcanvas({ openOffcanvas, setOpenOffcanvas }: IPr
               <h3 className="tp-offcanvas-title">Let’s Connect!</h3>
               <p>Product Designer focused on complex systems and clean solutions. Always happy to connect — say hello! </p>
             </div>
-            <div className="tp-main-menu-mobile d-xl-none">
+            <div className="tp-main-menu-mobile">
               <MobileMenus />
             </div>
             <div className="tp-offcanvas-gallery">
